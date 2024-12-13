@@ -1,14 +1,18 @@
 ## Hi! I'm **Jean** 👋
 <br>
 
-Olá, sou um Programador Desktop apaixonado por tecnologia! 💻✨ Tenho conhecimento em **C#**, **PL/SQL**, **APIs com C#** e sou um aspirante em desenvolvimento web 🌐. Atualmente trabalho como **Junior Full Stack Developer**, sempre buscando aprender e crescer 🚀.
+Olá, sou um Programador Desktop apaixonado por tecnologia! 💻✨ 
+Tenho conhecimento em **C#**, **PL/SQL**, **APIs com C#** e sou um aspirante em desenvolvimento web 🌐. 
+Atualmente trabalho como **Junior Full Stack Developer**, sempre buscando aprender e crescer 🚀.
 
-Sou uma pessoa criativa 🎨, com uma habilidade especial para aprender rapidamente 🔥. Acredito que a inovação é a chave para resolver problemas e criar algo único.
+Sou uma pessoa criativa 🎨, com uma habilidade especial para aprender rapidamente 🔥. 
+Acredito que a inovação é a chave para resolver problemas e criar algo único.
 
-Além disso, adoro explorar o mundo dos sistemas embarcados, como **Arduino** 🤖 e outros dispositivos tecnológicos. Esses projetos sempre me desafiam a expandir meu conhecimento e experimentar novas ideias.
+Além disso, adoro explorar o mundo dos sistemas embarcados, como **Arduino** 🤖 e outros dispositivos tecnológicos. 
+Esses projetos sempre me desafiam a expandir meu conhecimento e experimentar novas ideias.
 
-Tenho um espírito jovem e inovador 🧠⚡, sempre em busca de desafios e oportunidades para crescer. Se você também gosta de tecnologia ou tem sugestões, fique à vontade para compartilhar! Adoro trocar ideias e colaborar em projetos incríveis! 🔧🛠️🤝
-
+Tenho um espírito jovem e inovador 🧠⚡, sempre em busca de desafios e oportunidades para crescer. 
+Se você também gosta de tecnologia ou tem sugestões, fique à vontade para compartilhar! Adoro trocar ideias e colaborar em projetos incríveis! 🔧🛠️🤝
 
 ##
 
