@@ -15,16 +15,6 @@ Tenho um espírito jovem e inovador 🧠⚡, sempre em busca de desafios e oport
 Se você também gosta de tecnologia ou tem sugestões, fique à vontade para compartilhar! Adoro trocar ideias e colaborar em projetos incríveis! 🔧🛠️🤝
 
 ##
-
-<!--github stats-->
-<div align="center" style="display: inline">
-   <a href="https://github.com/JeanCampos1604">
-   <div style="display: inline_block">
-      <img height="175em" src="https://github-readme-stats.vercel.app/api?username=JeanCampos1604&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"/>
-      <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCampos1604&layout=compact&langs_count=7&theme=github_dark"/>
-   </div>
-</div>
- 
   
 <!--Imagem de linguagens-->
 <div style="display: inline-block" align="center"><br>
