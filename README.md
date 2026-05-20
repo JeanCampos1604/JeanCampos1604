@@ -19,7 +19,7 @@ Se você também gosta de tecnologia ou tem sugestões, fique à vontade para co
 <!--Imagem de linguagens-->
 <div style="display: inline-block" align="center"><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,dotnet,mysql,visualstudio&theme=dark" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,visualstudio,vite,ts,py&theme=dark" alt="My Skills">
   </a>
 </div>
 
